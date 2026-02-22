@@ -1,4 +1,4 @@
-# Data Science Internship Tasks
+# Machine Learning Internship Tasks
 
 This repository tracks my internship task submissions.
 
