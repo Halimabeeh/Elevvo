@@ -1,0 +1,3 @@
+# Task 8-specific dependencies (recommended in Python 3.11 env)
+tensorflow
+opencv-python
