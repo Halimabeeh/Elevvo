@@ -88,3 +88,6 @@ task6-music-genre-classification/features_3_sec.csv
 task6-music-genre-classification/.venv311/
 task6-music-genre-classification/features_30_sec.csv
 task6-music-genre-classification/features_3_sec.csv
+
+# Task 8 dataset
+task8-traffic-sign-recognition/Train/
