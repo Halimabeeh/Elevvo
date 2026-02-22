@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Generated outputs
+outputs/
+**/outputs/
+
+# Local datasets (keep out of git unless intentionally tracked)
+StudentPerformanceFactors.csv
+**/StudentPerformanceFactors.csv
