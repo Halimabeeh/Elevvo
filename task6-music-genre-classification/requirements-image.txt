@@ -1,0 +1,5 @@
+# Optional dependencies for image-based transfer learning in Task 6.
+# TensorFlow is not available for Python 3.14 at the moment.
+# Use a Python 3.11 virtual environment for this file.
+
+tensorflow

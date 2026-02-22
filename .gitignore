@@ -22,3 +22,69 @@ outputs/
 # Local datasets (keep out of git unless intentionally tracked)
 StudentPerformanceFactors.csv
 **/StudentPerformanceFactors.csv
+covtype.csv
+covtype_raw.csv
+**/covtype.csv
+**/covtype_raw.csv
+**/covtype.data.gz
+**/old_covtype.info
+**/covtype.info
+
+Mall_Customers.csv
+mall customers.csv
+**/Mall_Customers.csv
+**/mall customers.csv
+
+loan_approval_dataset.csv
+**/loan_approval_dataset.csv
+**/loan_data.csv
+
+u.data
+u.item
+u.genre
+u.user
+u.occupation
+u.info
+ua.base
+ua.test
+ub.base
+ub.test
+**/u.data
+**/u.item
+**/u.genre
+**/u.user
+**/u.occupation
+**/u.info
+**/ua.base
+**/ua.test
+**/ub.base
+**/ub.test
+
+genres_original/
+images_original/
+**/genres_original/
+**/images_original/
+
+train.csv
+features.csv
+stores.csv
+test.csv
+**/train.csv
+**/features.csv
+**/stores.csv
+**/test.csv
+
+# Task 6 local env and raw feature dumps
+task6-music-genre-classification/.venv311/
+task6-music-genre-classification/features_30_sec.csv
+task6-music-genre-classification/features_3_sec.csv
+
+# Task 6 local env and raw local files
+task6-music-genre-classification/.venv311/
+task6-music-genre-classification/features_30_sec.csv
+task6-music-genre-classification/features_3_sec.csv
+
+# Task 6 local env/data
+task6-music-genre-classification/.venv311/
+task6-music-genre-classification/features_30_sec.csv
+task6-music-genre-classification/features_3_sec.csv
